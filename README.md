@@ -50,7 +50,8 @@ This is a simple **Tic Tac Toe** game built using Python's `tkinter` library for
   - `color_gray`: Background color.
   - `color_light_gray`: Winning combination highlight.
 - **Fonts**: The font family and size for buttons and labels can be changed in the `font` parameter in the `tkinter` widget initialization.
-
+  
+![tictactoe-python-preview](https://github.com/ImKennyYip/tictactoe-python/assets/78777681/4e21fc84-eac6-45b3-a7cd-795fd895db9d)
 ## Enjoy Playing!
 
 Have fun playing the classic Tic Tac Toe game!
